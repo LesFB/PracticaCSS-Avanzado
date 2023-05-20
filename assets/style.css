@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+.container{
+    margin: 25px;
+    border: 4px dotted rebeccapurple;
+}
+
+span{
+    color: blue;
+    font-weight: 100%;
+}
+
+.container-padre{
+    margin: 25px;
+    padding: 25px;
+    border: 1px solid;
+}
+
+.position{
+    position: absolute;
+    top: 50px;
+}

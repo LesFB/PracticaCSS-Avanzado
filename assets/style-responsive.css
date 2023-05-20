@@ -1,0 +1,22 @@
+@media(max-width:500px) {
+    body{
+        color: blue;
+    }
+    .parrafo{
+        display: none;
+    }
+    
+}
+
+@media(orientation:landscape){
+    body{
+        color: green
+    }
+}
+
+@media(orientation:landscape) and (max-width:600px){
+    body{
+        color: yellow;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}

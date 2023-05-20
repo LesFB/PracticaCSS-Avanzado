@@ -1,0 +1,36 @@
+body{
+    text-align: center;    
+}
+
+.container{
+            margin: 50px;
+            padding: 25px;
+            border: 1px solid black;
+}
+
+.display{
+        border: 1px solid red;
+}
+
+span{
+    color: orange;
+    border: 3px dotted orangered;
+}
+
+#display-none{
+    display: none;
+}
+
+#display-inline{
+    display: inline;
+}
+
+#display-block{
+    display: block;
+}
+
+#display-inline-block{
+    display: inline-block;
+}
+
+p{text-align: justify;}
